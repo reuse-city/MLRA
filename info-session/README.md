@@ -6,8 +6,7 @@ Materials and presentation slides from the initial project information session h
 
 ## 📄 Presentation Slides
 
-* **PDF Archive:** [`202610 Info Session HSS.pptx.pdf`](202610%20Info%20Session%20HSS.pptx.pdf)
-* **Live Slide Deck:** [Google Slides Presentation](https://docs.google.com/presentation/d/1_9ZHiPrCJZT1tOWHFWJTPpltZAsfaNKZ/edit)
+* **Presentation Slides (PDF):** [`202610 Info Session HSS.pptx.pdf`](202610%20Info%20Session%20HSS.pptx.pdf)
 * **Presenters:** Felipe Schmidt Fonseca & Sandra Mamitzsch (Global Innovation Gathering e.V.)
 
 ---

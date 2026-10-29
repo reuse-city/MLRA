@@ -24,6 +24,7 @@ The course will be hosted as the flagship module of the **Inclusive Circularity*
 
 * **[`curriculum/`](curriculum/):** Didactic architecture, core learning pathways, and modular unit outlines for the MLRA course.
 * **[`workshops/`](workshops/):** Co-design workshop plans, session agendas, and participatory working group documentation.
+* **[`info-session/`](info-session/):** Presentation slides and materials from the project kickoff info session (29 Oct 2026).
 * **[`resources/`](resources/):** Open Educational Resources (OER), diagnostic guides, teardown triage templates, and reference publications.
 
 ---

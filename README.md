@@ -20,6 +20,14 @@ The course will be hosted as the flagship module of the **Inclusive Circularity*
 
 ---
 
+## 📂 Repository Structure
+
+* **[`curriculum/`](curriculum/):** Didactic architecture, core learning pathways, and modular unit outlines for the MLRA course.
+* **[`workshops/`](workshops/):** Co-design workshop plans, session agendas, and participatory working group documentation.
+* **[`resources/`](resources/):** Open Educational Resources (OER), diagnostic guides, teardown triage templates, and reference publications.
+
+---
+
 ## 📅 Roadmap (2026–2027)
 
 * **Phase 1: Participatory Setup & Needs Assessment (M1–M2 / Oct–Dec 2026)**  
@@ -36,6 +44,7 @@ The course will be hosted as the flagship module of the **Inclusive Circularity*
 ## 🤝 Get Involved
 
 * **Participatory Working Group:** If you are a maker, repairer, educator, or circularity practitioner, sign up via the [Participation Form](https://cloud.globalinnovationgathering.org/apps/forms/s/3witbBDWjjwPQ5DD6bLosmDj).
+* **Community Forum:** Follow and join the ongoing conversation on the [GIG Community Forum (wearegig.org)](https://wearegig.org).
 
 ---
 
@@ -47,4 +56,4 @@ The course will be hosted as the flagship module of the **Inclusive Circularity*
 
 ## 📄 Licence
 
-All educational content, documentation, and materials produced within this project will be published under Creative Commons ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
+All educational content, documentation, and materials produced within this project are published under Creative Commons ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). See [LICENSE](LICENSE) for details.

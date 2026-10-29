@@ -2,7 +2,7 @@
 
 > Co-design of an open learning course and community knowledge infrastructure for inclusive circularity.
 
-A project by **[Global Innovation Gathering (GIG)](https://globalinnovationgathering.org/)** and **[Reuse City](https://github.com/reuse-city)**, supported by the **[Hans Sauer Stiftung](https://www.hanssauerstiftung.de/)** under the funding programme *"Citizen Science… und dann? 2026–2027"*.
+A project by **[Global Innovation Gathering (GIG)](https://globalinnovationgathering.org/)**, supported by the **[Hans Sauer Stiftung](https://www.hanssauerstiftung.de/)** under the funding programme *"Citizen Science… und dann? 2026–2027"*.
 
 ---
 

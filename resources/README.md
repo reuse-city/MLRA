@@ -4,16 +4,6 @@ This directory serves as the repository and index for Open Educational Resources
 
 ---
 
-## Participation form
-
-- Please use [this form](https://cloud.globalinnovationgathering.org/apps/forms/s/3witbBDWjjwPQ5DD6bLosmDj) to inform us if you want to participate.
-
-## Next information session:
-
-November 18th, 14h CET. Please see this [calendar invite](info-session/20261118-invite.ics).
-
----
-
 ## 📂 Directory Contents & Planned Resources
 
 * **`guides/`**: Step-by-step instructional guides (e.g., *Low-tech Plastic Identification Guide*, *Multimeter Safety & Diagnostic Basics*).

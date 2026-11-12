@@ -6,6 +6,16 @@ A project by **[Global Innovation Gathering (GIG)](https://globalinnovationgathe
 
 ---
 
+## Participation form
+
+- Please use [this form](https://cloud.globalinnovationgathering.org/apps/forms/s/3witbBDWjjwPQ5DD6bLosmDj) to inform us if you want to participate.
+
+## Next information session:
+
+November 18th, 14h CET. Please see this [calendar invite](info-session/20261118-invite.ics).
+
+---
+
 ## 🧭 About the Project
 
 Open workshops, repair cafés, and makerspaces possess deep experiential knowledge about materials, repair, and circular resource management. Building directly upon the findings and open curriculum developed in the citizen science project **[CMVC (Circular Material Valuer Curriculum)](https://github.com/reuse-city/CMVC)**, **MLRA** is translating this practical expertise into an open, low-barrier online course.

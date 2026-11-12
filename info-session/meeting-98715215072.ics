@@ -1,0 +1,45 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/Sao_Paulo
+LAST-MODIFIED:20261009T235635Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/Sao_Paulo
+X-LIC-LOCATION:America/Sao_Paulo
+BEGIN:STANDARD
+TZNAME:-03
+TZOFFSETFROM:-0300
+TZOFFSETTO:-0300
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20261112T160728Z
+DTSTART;TZID=America/Sao_Paulo:20261118T100000
+DTEND;TZID=America/Sao_Paulo:20261118T113000
+SUMMARY:Info Session - Material Literacy and Resource Assessment
+UID:20261112T160728Z-98715215072@web-prod-us01-va1-webok-7cb65ddf7-plbjk
+TZID:America/Sao_Paulo
+DESCRIPTION:GIG Fund está convidando você para uma reunião Zoom agendada.
+ \n\nIngressar na reunião Zoom\nhttps://zoom.us/j/98715215072?pwd=mEwzKw4
+ CLdHEMT3GvpOaiqLvSIk7JV.1\n\nEntrar e fazer anotações\nhttps://zoom.us/j
+ /98715215072?pwd=mEwzKw4CLdHEMT3GvpOaiqLvSIk7JV.1&mynotes=on\n\nLink do 
+ chat da reunião\nhttps://zoom.us/launch/jc/98715215072\n\nID da reunião:
+  987 1521 5072\nSenha: 862236\n\n---\n\nDispositivo móvel de um toque\n+
+ 16699009128\,\,98715215072#\,\,\,\,*862236# Estados Unidos (San Jose)\n+
+ 16892781000\,\,98715215072#\,\,\,\,*862236# Estados Unidos\n\n\n---\n\nI
+ ngresso pelo SIP\n• 98715215072@zoomcrc.com\n\nInstruções de adesão\nhtt
+ ps://zoom.us/meetings/98715215072/invitations?signature=vQdmjCRubwDWe6Pa
+ YpJEcGAWVGqFSNJEfc6QmQXx7IY\n\n
+LOCATION:https://zoom.us/j/98715215072?pwd=mEwzKw4CLdHEMT3GvpOaiqLvSIk7JV
+ .1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

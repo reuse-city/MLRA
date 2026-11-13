@@ -34,7 +34,8 @@ The course will be hosted as the flagship module of the **Inclusive Circularity*
 
 * **[`curriculum/`](curriculum/):** Didactic architecture, core learning pathways, and modular unit outlines for the MLRA course.
 * **[`workshops/`](workshops/):** Co-design workshop plans, session agendas, and participatory working group documentation.
-* **[`info-session/`](info-session/):** Presentation slides and materials from the project kickoff info session (29 Oct 2026).
+* **[`comms/`](comms/):** Communications campaigns, Instagram carousel cards (1080×1350), ready-to-post captions, and brand assets.
+* **[`info-session/`](info-session/):** Materials, slides, and calendar invites for info sessions (Kickoff 29 Oct 2026, Open Info Session 18 Nov 2026).
 * **[`resources/`](resources/):** Open Educational Resources (OER), diagnostic guides, teardown triage templates, and reference publications.
 
 ---
@@ -54,7 +55,9 @@ The course will be hosted as the flagship module of the **Inclusive Circularity*
 
 ## 🤝 Get Involved
 
+* **First Open Info Session (18 Nov 2026):** Join our live online kickoff session on **Wednesday, 18 November 2026** at 14:00–15:30 CET / 13:00–14:30 UTC / 10:00–11:30 BRT. Full connection details and calendar invite are in [`info-session/`](info-session/).
 * **Participatory Working Group:** If you are a maker, repairer, educator, or circularity practitioner, sign up via the [Participation Form](https://cloud.globalinnovationgathering.org/apps/forms/s/3witbBDWjjwPQ5DD6bLosmDj).
+* **Social Media Campaign:** Grab the 5-card Instagram carousel and captions in [`comms/`](comms/).
 * **Community Forum:** Follow and join the ongoing conversation on the [GIG Community Forum (wearegig.org)](https://wearegig.org).
 
 ---

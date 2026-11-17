@@ -4,17 +4,17 @@ Documentation, presentation materials, and session recordings for the **Material
 
 ---
 
-## 🗓️ Open Info Session — 18 November 2026
+## 🗓️ Open Info Session — 25 November 2026
 
 An open participatory info session for makers, repairers, educators, and community organizers to learn about MLRA, the Global Innovation Academy (GIA), and how to take part in the co-design working group.
 
-* **Date:** Wednesday, 18 November 2026
-* **Time:** 14:00 – 15:30 CET | 13:00 – 14:30 UTC | 10:00 – 11:30 BRT
+* **Date:** Wednesday, 25 November 2026
+* **Time:** 15:00 – 16:30 CET | 14:00 – 15:30 UTC | 11:00 – 12:30 BRT
 * **Location:** Online via Zoom (Free & open to all)
 * **Direct Zoom Link:** [Join Zoom Meeting](https://zoom.us/j/98715215072?pwd=mEwzKw4CLdHEMT3GvpOaiqLvSIk7JV.1)  
   *Meeting ID:* `987 1521 5072`  
   *Passcode:* `862236`
-* **Calendar Invite (.ics):** [`20261118-invite.ics`](20261118-invite.ics)
+* **Calendar Invite (.ics):** [`20261125-invite.ics`](20261125-invite.ics)
 * **Hosts:** Felipe Schmidt Fonseca & Sandra Mamitzsch (Global Innovation Gathering e.V.)
 * **RSVP / Participation Form:** [GIG Cloud Form](https://cloud.globalinnovationgathering.org/apps/forms/s/3witbBDWjjwPQ5DD6bLosmDj)
 

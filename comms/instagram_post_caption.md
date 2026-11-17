@@ -18,8 +18,8 @@ We are co-designing a permanent, community-owned open online course (MOOC) on th
 ### 🗓️ OPEN INFO SESSION
 Want to learn what we’re building and how you can get involved (and compensated)? Join our open kickoff session:
 
-* **Date:** Wednesday, 18 November 2026
-* **Time:** 14:00 – 15:30 CET | 13:00 – 14:30 UTC | 10:00 – 11:30 BRT
+* **Date:** Wednesday, 25 November 2026
+* **Time:** 15:00 – 16:30 CET | 14:00 – 15:30 UTC | 11:00 – 12:30 BRT
 * **Where:** Online via Zoom (Free & open to all)
 * **Direct Zoom Link:** [Click here](https://zoom.us/j/98715215072?pwd=mEwzKw4CLdHEMT3GvpOaiqLvSIk7JV.1)  
   *Meeting ID:* `987 1521 5072` | *Passcode:* `862236`
@@ -30,7 +30,7 @@ Want to learn what we’re building and how you can get involved (and compensate
 Swipe to the last card to scan the QR code with your phone camera, or tap the link in our bio:  
 👉 **[Participation Form](https://cloud.globalinnovationgathering.org/apps/forms/s/3witbBDWjjwPQ5DD6bLosmDj)**
 
-Can’t make it live on the 18th? Fill out the form anyway to join the participatory working group and take part in upcoming co-design sprints and pilot cohort reviews!
+Can’t make it live on the 25th? Fill out the form anyway to join the participatory working group and take part in upcoming co-design sprints and pilot cohort reviews!
 
 ---
 

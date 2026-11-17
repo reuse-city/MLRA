@@ -15,7 +15,7 @@ The generated cards are stored in [`instagram-cards/`](instagram-cards/):
 | **01** | [`card_1_cover.png`](instagram-cards/card_1_cover.png) | **Cover:** High-impact callout to makers, repairers & educators featuring circular knolling photography. |
 | **02** | [`card_2_project.png`](instagram-cards/card_2_project.png) | **Project:** Introduction to MLRA and the permanent community-owned MOOC on the Global Innovation Academy (GIA), supported by Hans Sauer Stiftung. |
 | **03** | [`card_3_tracks.png`](instagram-cards/card_3_tracks.png) | **Co-Design Tracks:** (1) Material Identification, (2) Condition & Repair Triage, (3) Open Commons (OER). |
-| **04** | [`card_4_info_session.png`](instagram-cards/card_4_info_session.png) | **Info Session:** Date (**18 Nov 2026**), multi-timezone pill (14:00 CET / 13:00 UTC / 10:00 BRT), Zoom meeting details, and agenda. |
+| **04** | [`card_4_info_session.png`](instagram-cards/card_4_info_session.png) | **Info Session:** Date (**25 Nov 2026**), multi-timezone pill (15:00 CET / 14:00 UTC / 11:00 BRT), Zoom meeting details, and agenda. |
 | **05** | [`card_5_rsvp_logos.png`](instagram-cards/card_5_rsvp_logos.png) | **Call to Action & Logos:** High-resolution Dino QR code linking to the participation form, plus full partner/funder logo bar (GIG, Hans Sauer Stiftung, Reuse City, GIA). |
 
 ### 📝 Ready-to-Post Caption

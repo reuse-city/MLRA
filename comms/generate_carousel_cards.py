@@ -2,7 +2,7 @@
 """
 Generate a 5-card carousel set (1080x1350, 4:5 portrait) for Instagram.
 Inviting participation to the Material Literacy & Resource Assessment (MLRA)
-project co-design and the 18 November 2026 Info Session.
+project co-design and the 25 November 2026 Info Session.
 """
 
 import os
@@ -254,13 +254,13 @@ def render_card_4():
     draw.text((W // 2, 385), "ONLINE INFO SESSION", font=get_font(28, bold=True), fill=C_WHITE, anchor="mm")
 
     draw.text((W // 2, 495), "Wednesday", font=get_font(30, bold=False), fill=C_MUTED_TEXT, anchor="mm")
-    draw.text((W // 2, 550), "18 November 2026", font=get_font(46, bold=True), fill=C_DARK, anchor="mm")
+    draw.text((W // 2, 550), "25 November 2026", font=get_font(46, bold=True), fill=C_DARK, anchor="mm")
 
     # Time pill
     time_rect = [95, 605, W - 95, 715]
     draw.rounded_rectangle(time_rect, radius=18, fill=(245, 247, 250), outline=(215, 220, 230), width=2)
-    draw.text((W // 2, 642), "14:00 – 15:30 CET", font=get_font(32, bold=True), fill=C_MAGENTA, anchor="mm")
-    draw.text((W // 2, 682), "13:00 – 14:30 UTC   •   10:00 – 11:30 BRT", font=get_font(23, bold=False), fill=C_MUTED_TEXT, anchor="mm")
+    draw.text((W // 2, 642), "15:00 – 16:30 CET", font=get_font(32, bold=True), fill=C_MAGENTA, anchor="mm")
+    draw.text((W // 2, 682), "14:00 – 15:30 UTC   •   11:00 – 12:30 BRT", font=get_font(23, bold=False), fill=C_MUTED_TEXT, anchor="mm")
 
     draw.text((W // 2, 755), "Live on Zoom  •  Free & Open for All", font=get_font(26, bold=True), fill=C_HSS_GREEN, anchor="mm")
 
@@ -312,7 +312,7 @@ def render_card_5():
     draw.text((W // 2, 785), "or click the link in bio", font=get_font(24, bold=False), fill=C_MAGENTA, anchor="mm")
     draw.text((W // 2, 830), "cloud.globalinnovationgathering.org", font=get_font(20, italic=True), fill=C_MUTED_TEXT, anchor="mm")
 
-    draw.text((W // 2, 915), "Can't make it to the 18 Nov session?", font=get_font(25, bold=True), fill=C_DARK, anchor="mm")
+    draw.text((W // 2, 915), "Can't make it to the 25 Nov session?", font=get_font(25, bold=True), fill=C_DARK, anchor="mm")
     draw.text((W // 2, 950), "Fill the form anyway to stay connected for future co-design sprints!", font=get_font(21, bold=False), fill=C_MUTED_TEXT, anchor="mm")
 
     # Project Partners & Supporters Bar
